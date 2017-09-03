@@ -17,7 +17,7 @@ function setupGenerics(){
     document.getElementById("navbar").innerHTML = navbarHTML;
 
     var headerImg = document.getElementById("header-img");
-    headerImg.src = "C:/Users/Andreas/Desktop/CrispMix Backdrop/mixconsole_cropped.jpeg";
+    headerImg.src = "img/header_img.png";
     headerImg.alt = "CrispMix header picture";
     headerImg.class="img-fluid";
 }
