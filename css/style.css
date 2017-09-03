@@ -3,6 +3,22 @@
   padding-right:0;
 }
 
+.main{
+    background-color: white;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    box-shadow: 11px 10px 17px 3px;
+    margin-bottom: 30px;
+}
+
 #header-img{
     width: 100%;
+}
+
+body{
+    background-color: #bbbbbb;
+}
+
+.content{
+    padding-bottom: 30px;
 }
